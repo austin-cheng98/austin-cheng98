@@ -13,7 +13,6 @@
 <p align="center">
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=austin-cheng98&theme=nightowl&radius=10" alt="austin-cheng98's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
